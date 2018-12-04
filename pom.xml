@@ -27,4 +27,10 @@
 	</snapshotRepository>
 </distributionManagement>
 
+	<scm>
+		<connection>scm:git:git@github.com:alokhand/devops-desktop.git</connection>
+		<developerConnection>scm:git:git@github.com:alokhand/devops-desktop.git</developerConnection>
+		<url>git@github.com:alokhand/devops-desktop.git</url>
+	</scm>
+
 </project>
